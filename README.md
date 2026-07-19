@@ -22,7 +22,7 @@ This repository contains a simple Bash script to automatically install and confi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/tomcat-auto-installer.git
+git clone https://github.com/manojgk0210-hue/tomcat-auto-installer.git
 ```
 
 ### 2. Go to the Project Directory
